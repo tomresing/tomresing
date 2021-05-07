@@ -1,5 +1,5 @@
 ### Hi from Tom 👋
-- 🔭 I’m currently working on UX writing for Project Cortex, including SharePoint Syntex and Microsoft Viva Topics
+- 🔭 I’m currently a content designer for Project Cortex, including SharePoint Syntex and Microsoft Viva Topics
 - 🌱 I’m currently learning UX writing, AI, Machine Learning, Diversity and inclusion
 - 👯 I’m looking to collaborate on helping people achieve more
 - 💬 Ask me about Microsoft
