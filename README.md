@@ -1,5 +1,5 @@
 ### Hi from Tom 👋
-- 🔤 Content designer for Microsoft Syntex 
+- 🔤 Content designer for Microsoft SharePoint Premium 
 - 🌱 Learning UX writing, AI, Machine Learning, Diversity and inclusion
 - 👯 Helping people achieve more
 - 💬 Ask me about Microsoft
