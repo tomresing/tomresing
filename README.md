@@ -1,5 +1,5 @@
 ### Hi from Tom 👋
-- 🔤 Content designer for AI experiences in Microsoft 365
+- 🔤 Content designer for AI experiences for OneDrive
 - 🌱 Learning UX writing, AI, Machine Learning, Diversity, and inclusion
 - 👯 Helping people achieve more
 - 💬 Ask me about Microsoft
